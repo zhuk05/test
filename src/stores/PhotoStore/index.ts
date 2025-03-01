@@ -1,1 +1,1 @@
-export * from './PhotoStore';
+export * from './photoStore';
